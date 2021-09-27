@@ -1,0 +1,9 @@
+{
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "helloWorld": "Hello World!",
+  "play": "Play",
+  "points": "$1 points",
+  "end_game" : "End Game"
+}
